@@ -3,7 +3,7 @@ NLog Sample
 
 ## Create Project Steps
 
-1.Nuget Consoleで以下のコマンドを実施する<br/>
+1.Run the command below in Nuget Console.<br/>
 Install-Package NLog [-Version 4.4.1]
 
-2.App.configでNLogを配置する
+2.Set NLog config in App.config.
